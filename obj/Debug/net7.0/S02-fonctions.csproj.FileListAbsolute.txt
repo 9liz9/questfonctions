@@ -1,0 +1,15 @@
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/bin/Debug/net7.0/S02-fonctions
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/bin/Debug/net7.0/S02-fonctions.deps.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/bin/Debug/net7.0/S02-fonctions.runtimeconfig.json
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/bin/Debug/net7.0/S02-fonctions.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/bin/Debug/net7.0/S02-fonctions.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.csproj.AssemblyReference.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.AssemblyInfoInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.AssemblyInfo.cs
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.csproj.CoreCompileInputs.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/refint/S02-fonctions.dll
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.pdb
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/S02-fonctions.genruntimeconfig.cache
+/Users/lizmanresa/WildCodeSchool/DotNet/quetes/S02-fonctions/obj/Debug/net7.0/ref/S02-fonctions.dll
